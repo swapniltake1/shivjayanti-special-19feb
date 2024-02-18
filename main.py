@@ -4,10 +4,10 @@ import time
 
 pygame.mixer.init()
 
-# Load the song
+
 pygame.mixer.music.load("./song/12.mp3")
 
-# Play the song
+
 pygame.mixer.music.play()
 
 
